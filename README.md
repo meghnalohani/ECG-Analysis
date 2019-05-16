@@ -1,0 +1,2 @@
+# ECG-Analysis
+Abnormalities are very common problems in the medical world. It is a disease which should be treated immediately which otherwise may result in the death of the patient. For this purpose a detection mechanism is very important. In this project we have tried to write a MATLAB code which takes the heart signals as input and detect if there is any problem with the person's heart. This is a very useful mechanism which is used in the field of medical science to save millions of lives over the years.
